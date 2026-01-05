@@ -50,8 +50,8 @@ FastAPI · Jupyter · Git · SQL · Matplotlib · Seaborn
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/shivam-brahmkshatriya-81b0a9208/)  
-- **GitHub:** [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/Shivam-Brahmkshatriya)
+- **LinkedIn:** [LINKEDIN](https://www.linkedin.com/in/shivam-brahmkshatriya-81b0a9208/)  
+- **GitHub:** [GITHUB](https://github.com/Shivam-Brahmkshatriya)
 
 ---
 
